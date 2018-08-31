@@ -7,9 +7,7 @@ const carPayment = 250;
 bankAccount = bankAccount - 12*rent;
 console.log(bankAccount);
 
-//Did you get what you expected.
-
-
+//Did you get what you expect?
 //Write a new statement below which subtracts 5 years of a car payment on line 12.
 
 
